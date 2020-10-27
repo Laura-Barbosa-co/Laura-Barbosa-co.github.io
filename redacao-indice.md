@@ -1,7 +1,7 @@
 # Aulas ;)
 # Estrutura
 Alicerce da redação 
-[aula 01-por que minha redacao e ruim](1)
+[aula 01-por que minha redacao e ruim](rere)
 [aula 02-modelo de redação](2) -> [projeto de texto]
 [aula 03-tese](3)
 [aula 04-introdução](4)
