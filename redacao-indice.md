@@ -1,15 +1,15 @@
 # Aulas (y)
 # Estrutura
-Alicerce da redação 
+Alicerce da redação \
 [aula 01-por que minha redacao e ruim](aula 01-por que minha redacao e ruim.md)\
 [aula 02-modelo de redação](aula 02-modelo de redação.md)\
-[aula 03-tese](aula 03-tese.md)
-[aula 04-introdução](aula 04-introdução.md)
-[aula 05-parágrafo de desenvolvimento - exposição](aula 05-parágrafo de desenvolvimento - exposição.md)
-[aula 06-paragrafo de desenvolvimento - argumento](aula 06-paragrafo de desenvolvimento - argumento.md)
-[aula 07-paragrafo de desenvolvimento - consequência e exemplo](aula 07-paragrafo de desenvolvimento - consequência e exemplo.md)
-[aula 08-conclusão](aula 08-conclusão.md)
-[aula 09-conclusão cuidado com a abstração](aula 09-conclusão cuidado com a abstração.md)
+[aula 03-tese](aula 03-tese.md)\
+[aula 04-introdução](aula 04-introdução.md)\
+[aula 05-parágrafo de desenvolvimento - exposição](aula 05-parágrafo de desenvolvimento - exposição.md)\
+[aula 06-paragrafo de desenvolvimento - argumento](aula 06-paragrafo de desenvolvimento - argumento.md)\
+[aula 07-paragrafo de desenvolvimento - consequência e exemplo](aula 07-paragrafo de desenvolvimento - consequência e exemplo.md)\
+[aula 08-conclusão](aula 08-conclusão.md)\
+[aula 09-conclusão cuidado com a abstração](aula 09-conclusão cuidado com a abstração.md)\
 
 ----
 
