@@ -10,6 +10,7 @@ Alicerce da redação
 [[aula 07-paragrafo de desenvolvimento - consequência e exemplo]]
 [[aula 08-conclusão]]
 [[aula 09-conclusão cuidado com a abstração]]
+
 ----
 
 # Estilo 
