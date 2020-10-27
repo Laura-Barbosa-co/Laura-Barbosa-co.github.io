@@ -10,7 +10,7 @@
 	- afirmação: opinião / impressão pessoal 
 	- informação: dado externo 
 	- argumentar: estabelecer relação entre as partes 
-		- voce pode falar o que quiser, mas o que legitimiza a sua fala é a **[justificativa](aula 03-tese.md)** = ==por que isso acontece ?==\
+		- voce pode falar o que quiser, mas o que legitimiza a sua fala é a **[justificativa](aula 03-tese.md)** = '''por que isso acontece ?'''\
 	
 	> a redação não está na opinião, está na argumentação, nas provas que são apresentadas
 			
