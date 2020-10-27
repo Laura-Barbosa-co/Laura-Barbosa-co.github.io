@@ -1,2 +1,2 @@
 # Olá
-[indice!!](redação-indice.md)
+[indice!!](redacao-indice.md)
