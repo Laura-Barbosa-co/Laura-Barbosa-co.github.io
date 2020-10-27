@@ -9,7 +9,7 @@ Alicerce da redação \
 [aula 06-paragrafo de desenvolvimento - argumento](aula 06-paragrafo de desenvolvimento - argumento.md)\
 [aula 07-paragrafo de desenvolvimento - consequência e exemplo](aula 07-paragrafo de desenvolvimento - consequência e exemplo.md)\
 [aula 08-conclusão](aula 08-conclusão.md)\
-[aula 09-conclusão cuidado com a abstração](aula 09-conclusão cuidado com a abstração.md)\
+[aula 09-conclusão cuidado com a abstração](aula 09-conclusão cuidado com a abstração.md)
 
 ----
 
