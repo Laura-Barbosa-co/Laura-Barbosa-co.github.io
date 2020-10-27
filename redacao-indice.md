@@ -1,15 +1,15 @@
 # Aulas ;)
 # Estrutura
 Alicerce da redação 
-[aula 01-por que minha redacao e ruim](rere)
-[aula 02-modelo de redação](2) -> [projeto de texto]
-[aula 03-tese](3)
-[aula 04-introdução](4)
-[aula 05-parágrafo de desenvolvimento - exposição](5)
-[aula 06-paragrafo de desenvolvimento - argumento](6)
-[aula 07-paragrafo de desenvolvimento - consequência e exemplo](7)
-[aula 08-conclusão](8)
-[aula 09-conclusão cuidado com a abstração](9)
+[aula 01-por que minha redacao e ruim.md](1)
+[aula 02-modelo de redação.md](2) -> [projeto de texto]
+[aula 03-tese.md](3)
+[aula 04-introdução.md](4)
+[aula 05-parágrafo de desenvolvimento - exposição.md](5)
+[aula 06-paragrafo de desenvolvimento - argumento.md](6)
+[aula 07-paragrafo de desenvolvimento - consequência e exemplo.md](7)
+[aula 08-conclusão.md](8)
+[aula 09-conclusão cuidado com a abstração.md](9)
 
 ----
 
