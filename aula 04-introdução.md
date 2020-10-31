@@ -1,5 +1,5 @@
 # introdução como índice do texto
-- Introdução é um parágrafo expositivo que serve como índice do texto e apresentação do [[projeto de texto]]
+- Introdução é um parágrafo expositivo que serve como índice do texto e apresentação do projeto de texto
 - uma boa introdução é uma estratégia para garantir a coerência do texto
 	- texto coerente = comparação das partes do texto 
 
