@@ -2,7 +2,7 @@
 
 por que isso acontece? qual é a origem do problema ?
 
-**a resposta a essa pergunta é a ==tese**==
+**a resposta a essa pergunta é a tese**
 
 Lembre-se:
 - algumas ideias podem estar relacionadas ao tema, mas isso não quer dizer que ela são a verdadeira origem do problema 
