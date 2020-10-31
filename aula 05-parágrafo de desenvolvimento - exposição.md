@@ -38,7 +38,8 @@ por isso repetir tem que repetir o tema em todos os parágrafos, para sempre rel
 1. exposição 
 	- desse modo ...
 	- assim sendo ...\
-2.[argumentação](aula 06-paragrafo de desenvolvimento - argumento.md) -> (justificar/explicar)\
+	
+2. [argumentação](aula 06-paragrafo de desenvolvimento - argumento.md) -> (justificar/explicar)\
 3. [consequências](aula 07-paragrafo de desenvolvimento - consequência e exemplo.md)
 	- como consequencia desse cenário.... \
 4. [exemplo](aula 07-paragrafo de desenvolvimento - consequência e exemplo.md)
