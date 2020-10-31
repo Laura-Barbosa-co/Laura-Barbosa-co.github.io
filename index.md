@@ -1,2 +1,2 @@
 # Anotações em .md 
-[Anotações - redações](redacao-indice.md)
+[Anotações - redação](redacao-indice.md)
