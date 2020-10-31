@@ -14,12 +14,12 @@ Alicerce da redação \
 ----
 
 # Estilo 
-Formas diferentes de fazer a mesma coisa 
-[[aula 10-autoria na intro 1 (sem repertório)]]
-[[aula 11-autoria na intro 2 (com citação)]]
-[[aula 12-autoria na intro 3 (cinema e obras de arte)]]
-[[aula 13-autoria na intro 3 (música, livros...)]]
-[[aula 14-resgate da tese no parágrafo de desenvolvimento]]
-[[aula 15 e 16- nova estrutura do paragrafo de desenv.]]
-[[aula 17-comentário da citação no desenvolvimento]]
-[[aula 18 - argumentos possíveis]]
+Formas diferentes de fazer a mesma coisa \ 
+[aula 10-autoria na intro 1 (sem repertório)](aula 10-autoria na intro 1 (sem repertório).md)\
+[aula 11-autoria na intro 2 (com citação)](aula 11-autoria na intro 2 (com citação).md)\
+[aula 12-autoria na intro 3 (cinema e obras de arte)](aula 12-autoria na intro 3 (cinema e obras de arte).md)\
+[aula 13-autoria na intro 3 (música, livros...)](aula 13-autoria na intro 3 (música, livros....md))\
+[aula 14-resgate da tese no parágrafo de desenvolvimento](aula 14-resgate da tese no parágrafo de desenvolvimento.md)\
+[aula 15 e 16- nova estrutura do paragrafo de desenv.](aula 15 e 16- nova estrutura do paragrafo de desenv..md)\
+[aula 17-comentário da citação no desenvolvimento](aula 17-comentário da citação no desenvolvimento.md)\
+[aula 18 - argumentos possíveis](aula 18 - argumentos possíveis.md)\
