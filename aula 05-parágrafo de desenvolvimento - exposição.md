@@ -1,16 +1,17 @@
 > é sempre importante relacionar o tema com o assunto do parágrafo 
 
 por isso repetir tem que repetir o tema em todos os parágrafos, para sempre relacionar o assunto do parágrafo com o tema
-- menos informação, mais **discussão** sobre as informações 
+- menos informação, mais discussão sobre as informações 
 	- discussão > informação
 		- nossa capacidade de argumentar é diretamente proporcional a aquilo que expomos 
 
 # 1ª frase - EXPOSIÇÃO
-> assunto do parágrafo gera tema 
-- objetiva, precisa revelar o [[projeto de texto]] -> bater o olho e ver qual é o tema do texto e qual é o assunto do parágrafo
+> assunto do parágrafo gera tema\
+
+- objetiva, precisa revelar o projeto de texto -> bater o olho e ver qual é o tema do texto e qual é o assunto do parágrafo
 - precisa estabelecer a interação entre dois ou mais fatores (que no caso é o tema e o assunto do parágrafo)
 	- fenomeno = interação entre dois ou mais fatores 
-		- ==A gera B -> fenomeno== 
+		- A gera B -> fenomeno
 		- porque A gera B -> argumento
 
 #### Exemplos 
@@ -37,10 +38,10 @@ por isso repetir tem que repetir o tema em todos os parágrafos, para sempre rel
 1. exposição 
 	- desse modo ...
 	- assim sendo ...
-2. [[aula 06-paragrafo de desenvolvimento - argumento|argumentação]] -> (justificar/explicar)
-3. [[aula 07-paragrafo de desenvolvimento - consequência e exemplo|consequências]]
+2.[argumentação](aula 06-paragrafo de desenvolvimento - argumento.md) -> (justificar/explicar)
+3. [consequências](aula 07-paragrafo de desenvolvimento - consequência e exemplo.md)
 	- como consequencia desse cenário.... 
-4. [[aula 07-paragrafo de desenvolvimento - consequência e exemplo|exemplo]]
+4. [exemplo](aula 07-paragrafo de desenvolvimento - consequência e exemplo.md)
 	- ilustra se esse panorama ....
 
 ![[Pasted image 20201026191137.png]]
