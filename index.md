@@ -1,2 +1,2 @@
-# Pensamentos em .md 
-[indice!!](redacao-indice.md)
+# Anotações em .md 
+[Anotações - redações](redacao-indice.md)
