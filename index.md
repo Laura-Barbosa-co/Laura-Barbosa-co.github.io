@@ -1,2 +1,5 @@
-# Anotações em .md e o que mais me der na telha. 
 
+<!DOCTYPE html><html>    <head>        <meta charset="UTF-8">        <style>
+p { color: green; }
+@media (max-width: 8.5in) { p { color: blue; } }@media (max-width: 5.0in) { p { color: red ; } }
+        </style>    </head>    <body>        <p>hello, world!</p>    </body></html>
