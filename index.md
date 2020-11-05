@@ -7,9 +7,9 @@
                 <style> 
 p { color: green; }
                
-               </style>    
+                </style>    
        </head>    
        <body>       
-       <p>hello, world!</p>   
+                <p>hello, world!</p>   
        </body>
-</html>
+ </html>
