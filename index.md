@@ -1,4 +1,15 @@
-<!DOCTYPE html><html>    <head>        <meta charset="UTF-8">        
-        <style> p { color: green; }
-@media (max-width: 8.5in) { p { color: blue; } }@media (max-width: 5.0in) { p { color: red ; } }
-        </style>    </head>    <body>        <p>hello, world!</p>    </body></html>
+<!DOCTYPE html>
+<html>   
+        <head>        
+                <meta charset="UTF-8">      
+                <title>hello, world!</title>
+                <meta name="viewport" content="width=device=width, initial-scale=1>
+                <style> 
+p { color: green; }
+               
+               </style>    
+       </head>    
+       <body>       
+       <p>hello, world!</p>   
+       </body>
+</html>
