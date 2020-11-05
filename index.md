@@ -1,2 +1,2 @@
-# Anotações em .md e o que mmais me der na telha
-[Anotações - redação](redacao-indice.md)
+# Anotações em .md e o que mais me der na telha. 
+
