@@ -3,10 +3,11 @@
                 <meta charset="UTF-8">      
                 <title>hello, world!</title>
                 <meta name="viewport" content="width=device=width, initial-scale=1">
+                <link rel="stylesheet" href="https://fonts.googleapis.com/css family=Roboto:400,400i,500,500i,700,700i,900,900i">
+        <link rel="stylesheet" href="styles/reset.css">
+        <link rel="stylesheet" href="styles/debug.css">
                 <style> 
-@media (max-width: 9.5in) {
-p { color: green; }
-}
+
                 </style>    
        </head>    
        <body>       
