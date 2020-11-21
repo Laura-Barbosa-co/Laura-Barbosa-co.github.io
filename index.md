@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 section#nav-test
 	#nav-container
 		ul
